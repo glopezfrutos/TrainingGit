@@ -17,19 +17,20 @@
 }
 
 .jumbotron {
-    padding:70px 30px 70px 30px;
+    padding:50px 30px 70px 30px;
+    text-align: center;
     margin:0px auto;
-    background: #9575CD ;
+    background: #75cd81 ;
     color:floralwhite;
 }
 
 body{
-    padding:50px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
     z-index:0;
 }
 
 .navbar-dark {
-     background-color: #512DA8;
+     background-color: #000000;
 }
 
 address{
